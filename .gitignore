@@ -1,0 +1,12 @@
+*.pkl
+*.path
+*.h5
+*.hdf5
+*.log
+*.csv
+*.json
+*.wandb
+*.yaml
+*.keras
+wandb/
+*.pyc
